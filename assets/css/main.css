@@ -2288,6 +2288,10 @@ input, select, textarea {
 			display: none;
 		}
 
+		span.devicons{
+			font-size: 70px;
+		}
+
 		.icon.style1:before {
 			color: #c3e895;
 		}
@@ -3386,9 +3390,6 @@ input, select, textarea {
 				margin: 0 0 1em 0;
 			}
 
-			.devicons i{
-				font-size: 70px ;
-			}
 
 		/* Button */
 
