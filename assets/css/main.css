@@ -502,6 +502,8 @@ input, select, textarea {
 			margin-left: -3em;
 			/* display: flex;
 			flex-direction: column-reverse; */
+			display: flex;
+			justify-content: center;
 		}
 
 		.skills{
@@ -2387,6 +2389,22 @@ input, select, textarea {
 			.image.fit img {
 				width: 100%;
 			}
+
+		#ob-pic{
+			height: 217px;
+		}	
+
+		#ob-p{
+			margin-top: 62px;
+		}
+
+		#jerbuts{
+			margin-top: 67px;
+		}
+
+		#jer-div{
+			margin-left: 25px;
+		}
 
 /* List */
 
